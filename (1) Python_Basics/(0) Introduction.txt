@@ -44,7 +44,8 @@ USES AND APPLICATIONS
     - Software developers make use of python as a support language. 
     - They use it for build-control and management, testing, and for a lot of other things.
 
-6. Business Applications: Python is also used to build ERP and e-commerce systems.
+6. Business Applications: 
+    - Python is also used to build ERP and e-commerce systems.
 
 
 Purpose of Python:
@@ -91,14 +92,14 @@ In programming, data type is an important concept.
 Variables can store data of different types, and different types can do different things.
 Python has the following data types built-in by default, in these categories:
 
-Text Type:	    str
-Numeric Types:	int, float, complex
-Sequence Types:	list, tuple, range
-Mapping Type:	dict
-Set Types:	    set, frozenset
-None Type:	    NoneType
-Boolean Type:	bool
-Binary Types:	bytes, bytearray, memoryview
+1. Text Type:	    str
+2. Numeric Types:	int, float, complex
+3. Sequence Types:	list, tuple, range
+4. Mapping Type:	dict
+5. Set Types:	    set, frozenset
+6. None Type:	    NoneType
+7. Boolean Type:	bool
+8. Binary Types:	bytes, bytearray, memoryview
 
 
 Programming languages are the tools we use to communicate with computers, instructing them to perform specific tasks. 
