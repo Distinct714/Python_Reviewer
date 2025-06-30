@@ -1,4 +1,3 @@
-
 PYTHON INTRODUCTION
 
 All coding consists of three steps:
@@ -6,15 +5,16 @@ All coding consists of three steps:
 - Executing or running
 - Debugging or fixing errors
 
-
-Three Technique of controlling the flow of instruction in computer:
+Three Technique of Controlling the Flow of Instruction in Computer:
 - Sequence (instruction runs from top to bottom)
 - Iteration (executing repeatedly or loop)
 - Selection (choose the path to follow)
 
+Programming languages are the tools we use to communicate with computers, instructing them to perform specific tasks. 
+To effectively communicate, we need to understand the fundamental building blocks of these languages: operators and keywords. 
 
-Python is one of the popular programming language. 
-It was created by Guido van Rossum, and released in 1991.
+
+Python is one of the popular programming language. It was created by Guido van Rossum, and released in 1991.
 
 It is an interpreted programming language, means that as a developer you write Python (.py) files in a 
 text editor and then put those files into the python interpreter to be executed.
@@ -22,7 +22,7 @@ text editor and then put those files into the python interpreter to be executed.
 It is widely used in various domain such as web development, data science, artificial intelligence, automation, game development and more.
 
 
-USES AND APPLICATIONS
+USES AND APPLICATIONS:
 
 1. Web and Internet Development (server-side): 
     - Python lets you develop a web application without too much trouble. 
@@ -59,7 +59,6 @@ Purpose of Python:
 Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
 
 Python has a simple syntax similar to the English language.
-
 Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
 
 Python runs on an interpreter system, meaning that code can be executed as soon as it is written. 
@@ -79,8 +78,7 @@ and classes. Other programming languages often use curly-brackets for this purpo
 
 
 Indentation refers to the spaces at the beginning of a code line.
-Python uses indentation to indicate a block of code.
-Python will give you an error if you skip the indentation.
+Python uses indentation to indicate a block of code. Python will give you an error if you skip the indentation.
 
 Where in other programming languages the indentation in code is for readability only, the indentation 
 in Python is very important.
@@ -100,7 +98,3 @@ Python has the following data types built-in by default, in these categories:
 6. None Type:	    NoneType
 7. Boolean Type:	bool
 8. Binary Types:	bytes, bytearray, memoryview
-
-
-Programming languages are the tools we use to communicate with computers, instructing them to perform specific tasks. 
-To effectively communicate, we need to understand the fundamental building blocks of these languages: operators and keywords. 
