@@ -1,13 +1,11 @@
+# START WITH COMMENT
 
-# COMMENTS
-
-# COMMENT   It starts with (#) hashtag that helps explain your own code, input some notes, or add descriptions
+# COMMENT   It starts with (#) hashtag that helps explain or document your code.
 #           This was ignored by python in order to prevent the program from being executed during testing code.
-#           This will serve as guide to your progress of code. (Documentation)
+#           This will serve as guide to your progress of code.
 
 '''
 You can also use this format or multiline/triple quotes when writing more notes in multiple lines.
-
 However, it is recommended to use hashtag instead the format above.
 '''
 
@@ -24,16 +22,17 @@ print("/___|", "\n")
 
 print("*" * 1)
 print("*" * 2)
-print("*" * 3)                          # Use for loop instead of this.
+print("*" * 3)                          
 print("*" * 4)
 print("*" * 5)
 print("*" * 6, "\n")
+# Use for loop instead of this.
 
 # The help() displays documentation about various Python objects including modules, functions, classes, and keywords.
 print(help(ascii))
 
 
-# VARIABLES
+# WHAT IS VARIABLES?
 
 # VARIABLES     These are containers for storing and labeling data, values or information.
 #               It has a name and value connected to each other with the equal sign.
@@ -54,9 +53,7 @@ character_fact = "real"
 print("This shape is called " + character_shape + ".")
 print("It has " + shape_sides + " sides.")
 print("Everywhere in this " + character_fact + " world has a triangle shape such as pyramid.\n")
-
 # Use f-string instead of this because they are readable, easier to write and less prone to errors.
-
 
 # You can also assign the same value to multiple variables in one line like this:
 x = y = z = "Virtual World"
@@ -102,7 +99,7 @@ print(x, y, z, "\n")
 # 5. A variable name cannot be any of the Python functions or keywords.
 
 
-# MULTI WORDS VARIABLE NAMES
+# MULTI_WORDS VARIABLE NAMES
 
 # Camel Case    - Each word, except the first, starts with a capital letter:
 myVariableName = "Joshua"
