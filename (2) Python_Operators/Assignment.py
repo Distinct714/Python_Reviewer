@@ -1,4 +1,3 @@
-
 # ASSIGNMENT OPERATORS
 
 # 1. Equal Sign (=)
@@ -40,6 +39,3 @@ e %= 2
 # 13.   <<=	    x <<= 3	        x = x << 3	
 
 # 14.   :=	    print(x := 3)	x = 3 print(x)
-
-
-# Explore more
