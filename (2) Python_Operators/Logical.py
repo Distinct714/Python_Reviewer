@@ -1,4 +1,3 @@
-
 # LOGICAL OPERATORS
 
 # These are used to check if two or more conditional statements are True or False.
@@ -29,7 +28,6 @@
 # 2. elif statement     - A function when there is multiple conditions as an alternative or none of the first condition is True.
 
 # 3. else statement     - A function where certain conditions becomes otherwise or false.
-
 
 Present_Box = True
 Is_Brown = False
