@@ -1,4 +1,3 @@
-
 # MEMBERSHIP OPERATORS
 
 # To verify if a certain characters or values are present in a string, we can use the keyword in.
