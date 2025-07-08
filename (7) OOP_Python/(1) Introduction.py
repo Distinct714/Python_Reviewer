@@ -1,4 +1,3 @@
-
 # OBJECT ORIENTED PROGRAMMING PYTHON
 
 # The classes and object function are useful in Python programming and it helps make your program more organized and more powerful.
@@ -33,7 +32,11 @@ print(compute.addition(3, 5))
 # Attributes are the variables that belong to a class.
 # Attributes are always public and can be accessed using the dot (.)
 
-# MODIFYING ATTRIBUTES
+# ADDING METHOD TO THE CLASS
+
+# Method    - A set of instructions that perform a task and use of period to take the effect of assigned variable.
+#           - Unlike the function, this uses dot notation to call the methods.
+#           - This is a function that belong to objects.
 
 class Person:
     def __init__(self, name, age):
