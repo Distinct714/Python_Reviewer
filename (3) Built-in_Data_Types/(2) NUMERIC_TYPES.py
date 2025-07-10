@@ -1,6 +1,5 @@
 # NUMERIC DATA TYPES
 
-
 # int function      - Converts the specified or assigned value into an integer number. 
 #                   - Decimal Numbers doesnt work in this kind of data type.
 #                   - It can be a whole number and positive or negative, without decimals, of unlimited length.
@@ -9,7 +8,6 @@
 #                   - It converts integers or real numbers into floating-point numbers.
 #                   - It can be a number and positive or negative, containing one or more decimals.
 #                   - It can also be scientific numbers with an "e" to indicate the power of 10.
-
 
 # Sample Built of Basic Calculations
 
