@@ -1,4 +1,3 @@
-
 # BOOLEAN TYPE
 
 # Booleans represent one of two values: True or False.
@@ -11,15 +10,12 @@
 
 
 # The bool() function allows you to identify any value, and give you True or False in return.
-
 comparison_num = 5 < 4
 print(bool(comparison_num))
 
 # Another Example
-
 a = True
 b = False
-
 print(bool(a and b))
 
 # Python also has many built-in functions that return a boolean value, like the isinstance() function, 
