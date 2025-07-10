@@ -1,4 +1,3 @@
-
 # MAPPING TYPE
 
 # DICTIONARY
@@ -20,7 +19,6 @@ print(empty_dict)
 # The main operation of a dictionary is to extract a value based on the key name. 
 # Unlike lists, where index numbers are used, dictionaries allow the use of a key to access its members. 
 # Dictionaries can also be used to sort, iterate, and compare data.
-
 profile_details = dict(name="Joshua", age=20, country="Philippines")
 print(profile_details)
 
@@ -51,7 +49,6 @@ print(nums)
 
 # When accessing a certain key-value pairs, use square brackets.
 # You can access multiple key-value pairs as long as there is a comma or any separation.
-
 weekConversion = {
     "Sun": "Sunday",
     "Mon": "Monday",
@@ -92,7 +89,6 @@ print(weekConversion.get("Hello", "Invalid Key"))
 for week in sorted(weekConversion.values()):
     print(f"The day is {week.lower()}.")
 
-
 # The items() method returns all the key:value pairs in a dictionary. (with dict_items as output)
 my_numbers = {1: "One", 2: "Two", 3: "Three", 4: "Four", 5: "Five"}
 
@@ -105,12 +101,10 @@ for key, value in my_numbers.items():
 my_numbers.pop(5)
 print(my_numbers)
 
-
 # The popitem() method removes the item that was last inserted into the dictionary. 
 # In versions before 3.7, the popitem() method removes a random item.
 my_numbers.popitem()
 print(my_numbers)
-
 
 # Creating tuple is possible in dictionary, however, creating list in dictionary will run an error
 # because this is ordered and cannot be used as a key.
@@ -118,12 +112,10 @@ my_tuple = (7, 8)
 numbers = {my_tuple: 10}
 print(numbers)
 
-
 # You can copy a dictionary by using the built-in Dictionary method copy().
 # Another way to make a copy is to use the built-in function dict().
 
 # USE OF IF_ELSE STATEMENTS IN DICTIONARY
-
 courses = {"LLM Concepts": "AI", 
            "Introduction to Data Pipelines": "Data Engineering", 
            "AI Ethics": "AI",
@@ -148,8 +140,6 @@ for key, value in courses.items():
 
 
 # NESTED DICTIONARIES
-
-# SAMPLE ONE
 task = {
   "Saturday" : {
         "5am" : "Ride a bike",
