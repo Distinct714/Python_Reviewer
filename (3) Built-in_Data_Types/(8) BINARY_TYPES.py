@@ -1,4 +1,3 @@
-# explore
 # BINARY TYPES
 
 # bytes
