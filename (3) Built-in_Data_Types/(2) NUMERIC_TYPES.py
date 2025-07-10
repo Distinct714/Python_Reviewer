@@ -1,4 +1,3 @@
-
 # NUMERIC DATA TYPES
 
 
@@ -12,7 +11,7 @@
 #                   - It can also be scientific numbers with an "e" to indicate the power of 10.
 
 
-# Sample Built of Basic Calculator
+# Sample Built of Basic Calculations
 
 #Addition
 print("Addition")
@@ -49,7 +48,6 @@ print(str(result))
 
 # Additionally, the complex function is mix with numeric characters and "j" to a variable.
 # The j stands as imaginary part of character or number.
-
 name = 2004j
 print(name)
 
