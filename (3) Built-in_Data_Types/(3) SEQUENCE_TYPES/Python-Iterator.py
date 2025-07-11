@@ -1,16 +1,13 @@
-
 # PYTHON ITERATOR
 
 # An iterator is an object that contains a countable number of values.
 # It is an object that can be iterated upon, meaning that you can traverse through all the values.
 
 # iter() is a method used to create iterator to an iterable objects.
-
-# next() is a method used to produce next values.
-
 name = ['jay garrick', 'barry allen', 'wally west', 'bart allen']
 iteration = iter(name)
 
+# next() is a method used to produce next values.
 print(next(iteration))
 print(next(iteration))
 print(next(iteration))
@@ -30,7 +27,6 @@ print(next(iteration))
 # Lists, tuples, dictionaries, and sets are all iterable objects. 
 # They are iterable containers which you can get an iterator from.
 # Even strings are iterable objects, and can return an iterator.
-
 
 # Create an iterator for range(3): small_value
 small_value = iter(range(3))
@@ -54,8 +50,3 @@ print(next(googol))
 print(next(googol))
 print(next(googol))
 print(next(googol))
-
-
-# Iterating Over File Connections
-
-file = ""
