@@ -1,4 +1,3 @@
-
 # TUPLES
 
 # The tuple is a type of data structure similar to list but fixed data.
@@ -9,22 +8,16 @@
 # Sometimes, working with a tuple can be more efficient and faster than a list, especially when working on large data.
 
 # Correct Output
-
 coordinates = [(6, 9), (3, 5), (8, 2)]
-
 print(coordinates[0], "\n")
 
-
 # Sample of Invalid Output
-
 # coordinates = (6, 9)
 # coordinates[0] = 7
-
 # print(coordinates[0])
 
 
 # Using a built-in function to create a tuple and access it, where the elements inside of tuple is under a list.
-
 fast_foods = tuple(["Jollibee", "Mcdonalds", "KFC"])
 
 print(fast_foods, "\n")
@@ -37,7 +30,6 @@ print("\n")
 
 
 # UNPACKING - extracting a collection of values in a list, tuple etc.
-
 world = ("Virtual World", "Real World", "No World")
 x, y, z = world
 print(x)
@@ -48,7 +40,6 @@ print("\n")
 
 
 # PACKING - assigning value to a tuple
-
 # If the number of variables is less than the number of values in tuple, you can add * to the variable name and the values 
 # will be assigned to the variable as a list.
 # The output in a variable with asterisk in values will turn to list with brackets.
@@ -62,7 +53,6 @@ fruits = ("apple", "banana", "cherry", "strawberry", "raspberry")
 print(green)
 print(yellow)
 print(red)
-
 print("\n")
 
 # SAMPLE 2
@@ -82,4 +72,3 @@ x = tuple(y)
 print(x, "\n")
 
 # Make sure the number of variables matches the number of values, or else you will get an error.
-
