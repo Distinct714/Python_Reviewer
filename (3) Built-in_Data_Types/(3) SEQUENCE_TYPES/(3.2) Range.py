@@ -1,4 +1,3 @@
-
 # RANGE
 
 # The range() function returns a sequence of numbers starting from 0 (index) by default, 
