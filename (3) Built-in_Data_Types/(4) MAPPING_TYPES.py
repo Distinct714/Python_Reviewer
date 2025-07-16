@@ -1,6 +1,4 @@
-# MAPPING TYPE
-
-# DICTIONARY
+# DICTIONARY (MAPPING TYPE)
 
 # Dictionaries are ordered and mutable that allow you to store different key-value pairs.
 # This is created with curly braces where its key and value is separated by colon.
@@ -75,7 +73,6 @@ print(weekConversion)
 weekConversion3 = weekConversion.setdefault("WD", "Weekdays")
 print(weekConversion3)
 
-
 # The .get method returns the value of the item with the specified key.
 # It allows to access a single value in a dictionary.
 print(weekConversion.get("Fri"))
@@ -95,7 +92,6 @@ my_numbers = {1: "One", 2: "Two", 3: "Three", 4: "Four", 5: "Five"}
 for key, value in my_numbers.items():
     print(f"\nKey: {key}")
     print(f"\nValue: {value}")
-
 
 # The pop() method removes the specified item from the dictionary.
 my_numbers.pop(5)
