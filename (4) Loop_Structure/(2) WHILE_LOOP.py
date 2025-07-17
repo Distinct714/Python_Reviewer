@@ -9,7 +9,6 @@
 # not the program as a whole or a specific section of the program should run.
 # In other words, you can set the flag to True or anything and the program will run continuously until any type of event makes it False. 
 # Then the program, loop, or whatever you're using a flag for will stop.
-
 while True:
    print("test")
    break
@@ -29,7 +28,6 @@ print("Done")
 # Below the print(i) is called counter, where a variable keeps track the number of iterations. Counters help you avoid infinite loops.
 # Remember to increment i, or else the loop will continue forever.
 # Without counter, the code will run forever or as what we called infinite loops.
-
 i = 10
 
 while i > 0:
@@ -63,7 +61,6 @@ while active:
 
 
 # SAMPLE TWO
-
 current_number = 0
 
 while current_number <=20:
@@ -74,7 +71,6 @@ while current_number <=20:
 
 
 # SAMPLE THREE
-
 colors = ["Red", "Orange", "Yellow", "Green", "Blue", "Black"]
 
 while "Black" in colors:
