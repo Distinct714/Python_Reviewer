@@ -1,4 +1,3 @@
-
 # NESTED LOOPS
 
 # Nested loops, a concept where one loop operates within another, are crucial in programming.
@@ -39,7 +38,6 @@ print("-" * 20)
 
 
 # ROWS AND COLUMNS
-
 rows = int(input("Enter Rows: "))
 columns = int(input("Enter Columns: "))
 symbols = input("Enter any Symbols: ")
@@ -51,7 +49,6 @@ for c in range(rows):
 
 
 # COMBINING FOR AND WHILE LOOPS AT THE SAME TIME
-
 list1 = ['I am ', 'You are ']
 list2 = ['good', 'bad', 'neutral']
 
@@ -77,7 +74,6 @@ for item in list1:
 # Use nested for loops instead of this.
 
 # ADDING ELEMENTS TO THE EMPTY LIST WITH FOR LOOP
-
 aliens =[]
 for alien_number in range(5):
     new_alien = {'color':'green', 'points':5, 'speed':'slow'}
