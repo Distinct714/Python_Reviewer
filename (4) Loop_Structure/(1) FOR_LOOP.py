@@ -9,11 +9,11 @@
 
 # The following will print vertically:
 
-for phrase in "Joshua Restaurant":      # Since strings are arrays, we can loop through the characters in a string, with a for loop.
+# Since strings are arrays, we can loop through the characters in a string, with a for loop.
+for phrase in "Joshua Restaurant":      
     print(phrase)
 
 # If you want to print horizontal, use end="".This defines what is printed at the end of the line of statement.
-
 for phrase2 in "Joshua Restaurant\n":
     print(phrase2, end="")
 
@@ -44,14 +44,12 @@ for index in range(3):
 
 
 # Using Range and length in for loop:
-
 foods = ["Pizza", "Burrito", "Burger"]
 
 for a in range(len(foods)):
     print(foods[a])
 
-# ANOTHER SAMPLE
-
+# ANOTHER SAMPLE (Use List Comprehension instead of this)
 squares = []
 for num in range(1, 11):
     num = num**2
@@ -63,7 +61,6 @@ for num in range(1, 11):
 
 # The break statement is used to interrupt or stop loop when some conditions are met.
 # The else block will NOT be executed if the loop is stopped by a break statement.
-
 number = [1, 2, 3, 1, 4, 5, 6, 2, 2]
 
 for i in number:
@@ -74,7 +71,6 @@ print("\n")
 
 # The continue statement is used to skip the current iteration of a loop when a certain condition is true.
 # It will move to the next iteration without existing the loop.
-
 numbers = [1, 2, 3, 1, 4, 5, 6, 2, 2]
 
 for i in numbers:
@@ -82,9 +78,7 @@ for i in numbers:
         continue
     print(i)
 
-
 # Same in having an assignment operators:
-
 number = [1, 2, 3, 1, 4, 5, 6, 2, 2]
 counter = 0
 
@@ -98,11 +92,10 @@ print("\n")
 # for loops cannot be empty, but if you for some reason have a for loop with no content, 
 # put in the pass statement to avoid getting an error.
 # This will act as a placeholder.
-
 for i in [1, 2, 3]:
     pass
 
-# 
+# enumerate
 letters = ["a", "b", "c"]
 
 for n, m in enumerate(letters):
