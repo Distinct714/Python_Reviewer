@@ -1,4 +1,4 @@
-
+# ARBITRARY ARGUMENTS IN PYTHON
 
 # Arbitrary arguments allow functions to accept any number of arguments
 
