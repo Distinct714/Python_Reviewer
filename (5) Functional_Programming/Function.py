@@ -1,4 +1,3 @@
-
 # FUNCTIONS
 
 # Functions is a collection or block of codes that perform a specific tasks, which only runs when it is called.
@@ -30,20 +29,17 @@ HelloUser()
 # If you create a variable with the same name inside a function, this variable will be local, and 
 # can only be used inside the function. 
 # The global variable with the same name will remain as global and with the original value.
-
 greeting = "Hello, User"
 
 def greet():
     global greeting
     greeting = "Hello, Joshua"
-    
 greet()
 
 print(greeting)
 
 # The nonlocal keyword is used to work with variables inside nested functions.
 # This makes the variable belong to the outer function.
-
 def hi():
   x = "User"
   def hi2():
@@ -64,21 +60,18 @@ print(hi())
 
 
 # SAMPLE 1
-
 def HelloUser(name, age, job):
     print(f"Hello, {name}, You are now {age}, You want {job}")
 
 HelloUser("Joshua.", "19.", "IT Manager.")
 
 # SAMPLE 2
-
 def numbers(a, b=5):
     return a * b
 numbers(4)
 
 # This shows how to use a default parameter value.
 # If we call the function without argument, it uses the default value:
-
 def HelloUser(name = "Joseph"):
     print(f"Hello, {name}")
 
@@ -89,17 +82,13 @@ HelloUser("Joshua")
 # You can send any data types of argument to a function (string, number, list, dictionary etc.), and 
 # it will be treated as the same data type inside the function.
 
-
 # The return function allows to return the value back to the caller of function.
-
 def value(num):
     return num * num * num
-
 print(value(2))
 
 # Function definitions cannot be empty, but if you for some reason have a function definition with no content, 
 # put in the pass statement to avoid getting an error.
-
 def nothing():
     pass
 
@@ -107,7 +96,6 @@ def nothing():
 # Higher-Order Functions is a functions that operate other functions that take another function as an argument or return a function
 
 # Functions can take other functions as arguments.
-
 def welcome(food):
     return f"Welcome, {food}"
 
@@ -117,8 +105,7 @@ def process_food(food, func):
 print(process_food("Bread", welcome))
 
 
-# TWO TYPES OF ARGUMENTS
-
+# TWO TYPES OF ARGUMENTS:
 
 # POSITIONAL ARGUMENT - The argument should align to the parameter or provide arguments in order, separated by a commas.
 #                     - This requires less code to execute function and keep a consistent order to arguments
@@ -127,22 +114,15 @@ print(process_food("Bread", welcome))
 #                       - This improves interpretation and easy to keep track of which argument you use.
 
 
-# SAMPLE ONE
-
-# Create the convert_data_structure function
+# COLLECTIONS USING FUNCTION
 def convert_data_structure(data, data_type = "list"):
-  
-  # If data_type is "tuple"
   if data_type == "tuple":
     data = tuple(data)
-  
-  # Else if data_type is set, convert to a set
   elif data_type == "set":
     data = set(data)
   else:
     data = list(data)
   return data
 
-# Call the function to convert to a set
 x = convert_data_structure({"a", 1, "b", 2, "c", 3}, data_type="list")
 print(x)
