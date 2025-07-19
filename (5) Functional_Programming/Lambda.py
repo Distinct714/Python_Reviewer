@@ -6,7 +6,6 @@
 # The argument is located before the expression. (lambda arguments: expression)
 # Use lambda functions when an anonymous function is required for a short period of time.
 
-
 # Addition with Lambda
 add = lambda nums : nums + 10
 print(add(5))      # nums = 5
@@ -35,7 +34,6 @@ print((lambda x: x * 1.2)(sale_price))
 # sorted() function returns a sorted list of the specified iterable object.
 # You can specify in either ascending or descending order. Strings are sorted alphabetically, and numbers are sorted numerically.
 # However, you cannot sort a list that contains BOTH string values AND numeric values.
-
 numbers = [(5, 8), (10,-1), (30, -20),(25, 15)]
 
 arrange_nums = sorted(numbers)
@@ -67,14 +65,12 @@ add_taxes = map(lambda x: x * 1.20, sales_prices)
 # Use add_taxes to return a new list with updated values
 print(list(add_taxes))
 
-
 # Convert the map into a list, for readability:
 list_numbers = [1, 3, 5, 7, 9]
 result = map(lambda x: x*2, list_numbers)
 print(list(result))
 
 # However, this is not recommended, use the simple syntax as shown below:
-
 z = [x*3 for x in list_numbers]
 print(z)
 
