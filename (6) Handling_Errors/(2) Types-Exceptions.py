@@ -1,4 +1,3 @@
-
 # SEVERAL TYPES OR BUILT-IN OF EXCEPTIONS
 
 # Exception Handling allows you to prevent program failure by processing potential exceptions in the way you need.
@@ -32,8 +31,6 @@ except NameError:
 # float("Hello")
 
 # KeyError exception is raised when a key does not exist in a dictionary.
-
-
 try:
     food = ["Burger", "Pizza", "Fries"]
     food.remove(7)
@@ -65,7 +62,6 @@ except ValueError:
 
 
 # Creating Exceptions in class with function:
-
 class ValueTooHighError(Exception):
     pass
 
@@ -87,6 +83,5 @@ try:
 
 except ValueTooHighError or ValueTooSmallError as e:
     print(e)
-
 
 # Explore more here
