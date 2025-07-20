@@ -1,5 +1,4 @@
-
-# INTRODUCTION TO ERRORS
+# INTRODUCTION TO HANDLING ERRORS
 
 # Error is a code that violate one or more rules and cause our program to terminate.
 # Programs stop working when the code contain errors.
@@ -33,7 +32,6 @@ snake_case("User Name 187")
 # It often caused by logical errors which can leads to unexpected results.
 
 # Exceptions are specific errors that occur during execution and disrupt the program's flow.
-
 try:
    a = 5 + "15"
    print(a)
@@ -48,16 +46,12 @@ finally:
 # When a method encounters an exception and does not know how to handle it, use raise exceptions
 
 # Assert statement can be used instead of if-else statement as short ones.
-
 x = -1
 
 if x < 0:
   raise Exception("Sorry, no numbers below zero.")
 
 # or:
-
 x = -10
 
 assert(x <= 0), "No numbers below zero."
-
-
