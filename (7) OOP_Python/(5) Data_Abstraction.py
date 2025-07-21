@@ -1,4 +1,3 @@
-
 # DATA ABSTRACTION
 
 # Abstraction hides the internal implementation details while exposing only the necessary functionality. 
