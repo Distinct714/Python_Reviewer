@@ -1,4 +1,3 @@
-
 # PYTHON ENCAPSUALTION
 
 # Encapsulation is the bundling of data (attributes) and methods (functions) within a class, 
