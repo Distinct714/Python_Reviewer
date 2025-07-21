@@ -152,5 +152,3 @@ genshin_character.describe()
 
 y = Bow("Amos Bow")
 y.kind()
-
-
