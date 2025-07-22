@@ -1,4 +1,3 @@
-
 # CLASS INITIALIZE
 
 # The __init__ initialize double underscore is used in Python classes.
@@ -23,18 +22,16 @@ class Pizza:
         self.sauce = sauce
         self.vegetable = vegetable
 
-# Methods in objects are functions that belong to the object.
-# It is a functions inside a class or a member of class. These are actions that an object perform within class.
-# Objects can also contain methods. 
-
+    # Methods in objects are functions that belong to the object.
+    # It is a functions inside a class or a member of class. These are actions that an object perform within class.
+    # Objects can also contain methods. 
     def topping(self):
         if self.cheese == "swiss":
             return True
         else:
             return False
-        
-# class definitions cannot be empty, but if you for some reason have a class definition with no content, 
-# put in the pass statement to avoid getting an error.
-
+            
+    # class definitions cannot be empty, but if you for some reason have a class definition with no content, 
+    # put in the pass statement to avoid getting an error.
     def nothing():
         pass
