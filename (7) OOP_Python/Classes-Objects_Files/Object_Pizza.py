@@ -1,4 +1,3 @@
-
 # IMPORTING CLASS FROM OTHER FILE
 
 # Beside the "from" is the name of a file.
