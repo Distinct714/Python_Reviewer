@@ -26,7 +26,6 @@ print("*" * 3)
 print("*" * 4)
 print("*" * 5)
 print("*" * 6, "\n")
-# Use for loop instead of this.
 
 # The help() displays documentation about various Python objects including modules, functions, classes, and keywords.
 print(help(ascii))
@@ -45,7 +44,6 @@ print(help(ascii))
 # Remember, you cannot combine string and integer at the same time.
 
 # Use the + operator to concatenate or combine two strings or values together.
-
 character_shape = "triangle"
 shape_sides = "three"
 character_fact = "real"
@@ -53,6 +51,7 @@ character_fact = "real"
 print("This shape is called " + character_shape + ".")
 print("It has " + shape_sides + " sides.")
 print("Everywhere in this " + character_fact + " world has a triangle shape such as pyramid.\n")
+
 # Use f-string instead of this because they are readable, easier to write and less prone to errors.
 
 # You can also assign the same value to multiple variables in one line like this:
