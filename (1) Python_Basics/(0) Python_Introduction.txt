@@ -16,12 +16,14 @@ To effectively communicate, we need to understand the fundamental building block
 
 What is Python?
 
-Python is one of the popular programming language. It was created by Guido van Rossum, and released in 1991.
-
-It is an interpreted programming language, means that as a developer you write Python (.py) files in a 
-text editor and then put those files into the python interpreter to be executed.
-
-It is widely used in various domain such as web development, data science, artificial intelligence, automation, game development and more.
+- It is one of the popular programming language. It was created by Guido van Rossum, and released in 1991.
+- It is an interpreted programming language, means that as a developer you write Python (.py) files in a 
+  text editor and then put those files into the python interpreter to be executed.
+- It is widely used in various domain such as web development, data science, artificial intelligence, automation, 
+  game development and more.
+- Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
+- It runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
+- Python can be treated in a procedural way, an object-oriented way or a functional way.
 
 
 USES AND APPLICATIONS:
@@ -58,18 +60,10 @@ PURPOSE OF PYTHON:
 - Python can be used for rapid prototyping, or for production-ready software development.
 
 
-Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
+COMPARISON OF PYTHON SYNTAX TO OTHER PROGRAMMING LANGUAGES:
 
 Python has a simple syntax similar to the English language.
-Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
-
-Python runs on an interpreter system, meaning that code can be executed as soon as it is written. 
-This means that prototyping can be very quick.
-
-Python can be treated in a procedural way, an object-oriented way or a functional way.
-
-
-Python Syntax compared to other programming languages:
+Python has syntax that allows developers to write programs with fewer lines than some other programming languages
 
 1. Python was designed for readability, and has some similarities to the English language with influence 
 from mathematics.
@@ -88,8 +82,7 @@ in Python is very important.
 
 EIGHT BUilT-IN DATA TYPES:
 
-In programming, data type is an important concept.
-Variables can store data of different types, and different types can do different things.
+In programming, data type is an important concept. Variables can store data of different types, and different types can do different things.
 Python has the following data types built-in by default, in these categories:
 
 1. Text Type:	    str
