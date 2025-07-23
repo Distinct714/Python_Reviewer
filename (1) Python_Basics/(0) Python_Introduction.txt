@@ -1,11 +1,11 @@
 PYTHON INTRODUCTION
 
-All coding consists of three steps:
+Three Fundamental Process of Writing Code:
 - Writing
 - Executing or running
 - Debugging or fixing errors
 
-Three Technique of Controlling the Flow of Instruction in Computer:
+Below are Three Technique of Controlling the Flow of Instruction in Computer:
 - Sequence (instruction runs from top to bottom)
 - Iteration (executing repeatedly or loop)
 - Selection (choose the path to follow)
@@ -13,6 +13,8 @@ Three Technique of Controlling the Flow of Instruction in Computer:
 Programming languages are the tools we use to communicate with computers, instructing them to perform specific tasks. 
 To effectively communicate, we need to understand the fundamental building blocks of these languages: operators and keywords. 
 
+
+What is Python?
 
 Python is one of the popular programming language. It was created by Guido van Rossum, and released in 1991.
 
@@ -48,7 +50,7 @@ USES AND APPLICATIONS:
     - Python is also used to build ERP and e-commerce systems.
 
 
-Purpose of Python:
+PURPOSE OF PYTHON:
 - Python can be used on a server to create web applications.
 - Python can be used alongside software to create workflows.
 - Python can connect to database systems. It can also read and modify files.
