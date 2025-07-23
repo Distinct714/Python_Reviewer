@@ -84,7 +84,7 @@ Where in other programming languages the indentation in code is for readability 
 in Python is very important.
 
 
-Eight Built-in Data Types:
+EIGHT BUilT-IN DATA TYPES:
 
 In programming, data type is an important concept.
 Variables can store data of different types, and different types can do different things.
