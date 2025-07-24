@@ -15,29 +15,28 @@ phrase2 = "I am\nUnknown Guy."
 print(phrase2)
 
 # \' or \" function is a special character used to insert single or double quotation in a string value.
-quotes = "It\'s BOTORU."
+quotes = "It\'s Distinct."
 print(quotes) 
 
 phrase3 = "I am \"Unknown\" Guy."
 print(phrase3)
 
 # \t function is a special character that allows inserting a space or tab between two or more words. (Indent)
-phrase4 = "It was\tBOTORU."
+phrase4 = "It was\tDISTINCT."
 print(phrase4)
 
 # \b function is a special character that represents the backspace character. 
-phrase5 = 'Hey \bBOTORU.'
+phrase5 = 'Hey \bDistinct.'
 print(phrase5)
 
-# \r    Carriage Return is a special character that is used to move the cursor to the beginning of the line, 
+# \r    Carriage Return: A special character that is used to move the cursor to the beginning of the line, 
 #       effectively "returning" it to the start.
 phrase6 = "Do some\rwork!"
 print(phrase6)
 
-# \f    Form Feed is a special character in the ASCII character set that has a few specific uses.
+# \f    Form Feed: A special character in the ASCII character set that has a few specific uses.
 phrase7 = "Do some work!\fADVICE:"
 print(phrase7)
-
 
 # \ooo  Octal value: A backslash followed by three integers will result in a octal value:
 txt = "\110\145\154\154\157"
