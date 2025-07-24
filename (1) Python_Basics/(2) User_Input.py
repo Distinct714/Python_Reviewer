@@ -11,14 +11,14 @@ print(f"Hello, {name}!")
 age = int(input("Enter Your Age: "))
 asking = input(f"Are you {age} years old?")
 
+# Using If-else Statement
 if age >= 18:
     if asking == "Yes" or "yes":
         print("Then, get some work!\n")
     else:
-        print("Then, study now!\n")
+        print("Then, go to school!\n")
 else:
     print("Repeat the fill-up.\n")
-
 
 # SAMPLE TWO
 prompt = "Your data won\'t be stolen.\n"
@@ -31,9 +31,8 @@ print(f"Hello, {username}.")
 
 # F-string      This is a preferred way of formatting strings and allows you to format selected parts of a string.
 #               Note, we cannot combine strings and numbers in a variables. Instead, use f-string and {variable} like this:
-
-name = "Joshua" # String
-age = 19        # Integer
+name = "Joshua" 
+age = 19      
 
 print(f"My name is {name}")
 print(f"I am {age} years old")
