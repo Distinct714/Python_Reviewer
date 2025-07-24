@@ -6,12 +6,10 @@
 
 '''
 You can also use this format or multiline/triple quotes when writing more notes in multiple lines.
-However, it is recommended to use hashtag instead the format above.
 '''
 
 # print()   This function is used to send or print out a values (object) or any data and requires the use of parenthesis.
 #           It was also used to output variables that will be displ ayed on the screen.
-
 print("Hello, World!")
 
 # Creating basic shape through print function.
@@ -27,7 +25,7 @@ print("*" * 4)
 print("*" * 5)
 print("*" * 6, "\n")
 
-# The help() displays documentation about various Python objects including modules, functions, classes, and keywords.
+# The help() displays documentation or information about various Python objects including modules, functions, classes, and keywords.
 print(help(ascii))
 
 
@@ -48,6 +46,7 @@ character_shape = "triangle"
 shape_sides = "three"
 character_fact = "real"
 
+# If you want to access the value stored in variable, call the variable name.
 print("This shape is called " + character_shape + ".")
 print("It has " + shape_sides + " sides.")
 print("Everywhere in this " + character_fact + " world has a triangle shape such as pyramid.\n")
@@ -68,7 +67,6 @@ print(z, "\n")
 
 
 # type()        This function can be applied to get the data type of variable or any object.
-
 x = 3
 y = "Triangle"
 
@@ -79,15 +77,11 @@ print(type(y), "\n")
 # TYPE CONVERSION (CASTING)
 
 # If you want to specify the data type of a variable or convert into another type, this can be done with CASTING.
-
 x = str(3)
 y = int(5)
 z = float(7)
 
 print(x, y, z, "\n")
-
-# If you want to access the value stored in variable, call the variable name.
-
 
 # RULES FOR PYTHON VARIABLES
 
