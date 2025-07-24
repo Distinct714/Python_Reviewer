@@ -10,7 +10,7 @@ phrase1 = "I am Unknown\\Guy."
 print(phrase1)
 
 # \n function is a special character that is used when we need to end the current line and start a new line.
-# It is used to create a new line in the string or file. (Enter key in code)
+# It is used to create a new line in the string or file.
 phrase2 = "I am\nUnknown Guy."
 print(phrase2)
 
@@ -21,7 +21,7 @@ print(quotes)
 phrase3 = "I am \"Unknown\" Guy."
 print(phrase3)
 
-# \t function is a special character that allows inserting a space or tab between two or more words. (Indent)
+# \t function is a special character that allows inserting a space or tab between two or more words.
 phrase4 = "It was\tDISTINCT."
 print(phrase4)
 
