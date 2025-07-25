@@ -4,8 +4,7 @@
 # It can also applied to comparison and conditional statements.
 
 # Almost any value is evaluated to True if it has some sort of content.
-# Any string and number present is True.
-# Any list, tuple, set, and dictionary present are also True.
+# Any string and number present is True. Any list, tuple, set, and dictionary present are also True.
 # In other words, every empty values, such as (), [], {}, "", the number 0, and the value None result False.
 
 # The bool() function allows you to identify any value, and give you True or False in return.
