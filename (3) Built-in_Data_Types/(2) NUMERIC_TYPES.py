@@ -31,7 +31,7 @@ print(str(result))
 print("Multiplication")
 num1 = input("Enter a number: ")
 num2 = input("Enter another number:")
-result = float(num1) * float(num2)
+result = int(num1) * int(num2)
 
 print(str(result))
 
@@ -39,7 +39,7 @@ print(str(result))
 print("Division")
 num1 = input("Enter a number: ")
 num2 = input("Enter another number:")
-result = float(num1) / float(num2)
+result = int(num1) / int(num2)
 
 print(str(result))
 
