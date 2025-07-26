@@ -16,4 +16,11 @@ Topics
 - Match Case Statement
 
 # BUILT-IN DATA TYPES
--
+- Text Type
+- Numeric Type
+- Sequence Types
+- Mapping Type
+- Set Types
+- None Type
+- Boolean Type
+- Binary Types
