@@ -1,21 +1,22 @@
 # CONCEPTS OF PYTHON
 This repository is for academic purposes to expand knowledge. Explore more about Python as your Programming Language.
 
-# PYTHON BASICS
-Topics:
+# (1) PYTHON BASICS
+Topics in this Section:
 - Introduction of Python
 - Variables
 - User Input
 - Python Numbers
 - Escape Characters
 
-# PYTHON OPERATORS
-Topics
+# (2) PYTHON OPERATORS
+Topics in this Section:
 - Operands Based
 - All Python Operators
 - Match Case Statement
 
-# BUILT-IN DATA TYPES
+# (3) BUILT-IN DATA TYPES
+Topics in this Section:
 - Text Type
 - Numeric Type
 - Sequence Types
@@ -24,3 +25,6 @@ Topics
 - None Type
 - Boolean Type
 - Binary Types
+
+# SOURCES
+Some topics here are based on geeksforgeeks, freecodecamp, w3schools and datacamp.
