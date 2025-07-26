@@ -1,6 +1,5 @@
 # CONCEPTS OF PYTHON
-Explore more about Python as your Programming Language.
-
+This repository is for academic purposes to expand knowledge. Explore more about Python as your Programming Language.
 
 # PYTHON BASICS
 Topics:
@@ -15,3 +14,6 @@ Topics
 - Operands Based
 - All Python Operators
 - Match Case Statement
+
+# BUILT-IN DATA TYPES
+-
