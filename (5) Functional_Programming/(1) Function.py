@@ -1,4 +1,4 @@
-# FUNCTIONS
+# INTRODUCTION TO PYTHON FUNCTIONS
 
 # Functions is a collection or block of codes that perform a specific tasks, which only runs when it is called.
 # It is defined using the def keyword followed by a function name and parenthesis.
