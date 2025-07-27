@@ -26,5 +26,18 @@ Topics in this Section:
 - Boolean Type
 - Binary Types
 
+# (4) LOOPS STRUCTURE
+- For-loop
+- While-loop
+- Nested loop
+
+# (5) FUNCTIONAL PROGRAMMING
+- Function (def)
+- Args-Kwargs
+- Lambda
+- Decorators
+- Recursion
+- Docstrings
+
 # SOURCES
 Some topics here are based on geeksforgeeks, freecodecamp, w3schools and datacamp.
