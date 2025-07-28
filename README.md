@@ -42,6 +42,11 @@ Topics in this Section:
 # (6) HANDLING ERRORS
 
 # (7) OBJECT-ORIENTED PROGRAMMING
+- Introduction to OOP
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Data Abstraction
 
 # (8) PYTHON FILES HANDLING
 
