@@ -39,5 +39,14 @@ Topics in this Section:
 - Recursion
 - Docstrings
 
+# (6) HANDLING ERRORS
+
+# (7) OBJECT-ORIENTED PROGRAMMING
+
+# (8) PYTHON FILES HANDLING
+
+# (9) PYTHON MODULES
+
+
 # SOURCES
 Some topics here are based on geeksforgeeks, freecodecamp, w3schools and datacamp.
