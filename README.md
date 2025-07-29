@@ -56,8 +56,11 @@ Topics in this Section:
 ## (8) PYTHON FILES HANDLING
 Topics in this Section:
 
-# (9) PYTHON MODULES
+## (9) PYTHON MODULES
 Topics in this Section:
+- Basic Modules
+- Intermediate Modules
+- Advance Modules
 
-# SOURCES
+# **SOURCES**
 Some topics here are based on geeksforgeeks, freecodecamp, w3schools and datacamp.
