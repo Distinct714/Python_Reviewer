@@ -1,4 +1,4 @@
-# CONCEPTS OF PYTHON
+**# CONCEPTS OF PYTHON**
 This repository is for academic purposes to expand knowledge. Explore more about Python as your Programming Language.
 
 ### (1) PYTHON BASICS
@@ -9,7 +9,7 @@ Topics in this Section:
 - Python Numbers
 - Escape Characters
 
-# (2) PYTHON OPERATORS
+## (2) PYTHON OPERATORS
 Topics in this Section:
 - Operands Based
 - All Python Operators
