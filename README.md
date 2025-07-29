@@ -2,7 +2,7 @@
 
 This repository is for academic purposes to expand knowledge. Explore more about Python as your Programming Language.
 
-### (1) PYTHON BASICS
+## (1) PYTHON BASICS
 Topics in this Section:
 - Introduction of Python
 - Variables
@@ -16,7 +16,7 @@ Topics in this Section:
 - All Python Operators
 - Match Case Statement
 
-# (3) BUILT-IN DATA TYPES
+## (3) BUILT-IN DATA TYPES
 Topics in this Section:
 - Text Type
 - Numeric Type
@@ -27,13 +27,13 @@ Topics in this Section:
 - Boolean Type
 - Binary Types
 
-# (4) LOOPS STRUCTURE
+## (4) LOOPS STRUCTURE
 Topics in this Section:
 - For-loop
 - While-loop
 - Nested loop
 
-# (5) FUNCTIONAL PROGRAMMING
+## (5) FUNCTIONAL PROGRAMMING
 Topics in this Section:
 - Function (def)
 - Args-Kwargs
@@ -42,10 +42,10 @@ Topics in this Section:
 - Recursion
 - Docstrings
 
-# (6) HANDLING ERRORS
+## (6) HANDLING ERRORS
 Topics in this Section:
 
-# (7) OBJECT-ORIENTED PROGRAMMING
+## (7) OBJECT-ORIENTED PROGRAMMING
 Topics in this Section:
 - Introduction to OOP
 - Inheritance
@@ -53,7 +53,7 @@ Topics in this Section:
 - Encapsulation
 - Data Abstraction
 
-# (8) PYTHON FILES HANDLING
+## (8) PYTHON FILES HANDLING
 Topics in this Section:
 
 # (9) PYTHON MODULES
