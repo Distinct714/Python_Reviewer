@@ -44,6 +44,8 @@ Topics in this Section:
 
 ## (6) HANDLING ERRORS
 Topics in this Section:
+- Basic Handling Errors
+- Types of Exceptions
 
 ## (7) OBJECT-ORIENTED PROGRAMMING
 Topics in this Section:
@@ -55,6 +57,8 @@ Topics in this Section:
 
 ## (8) PYTHON FILES HANDLING
 Topics in this Section:
+- Introduction
+- File Detection
 
 ## (9) PYTHON MODULES
 Topics in this Section:
