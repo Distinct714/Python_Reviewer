@@ -67,4 +67,4 @@ Topics in this Section:
 - Advance Modules
 
 # **SOURCES**
-Some topics here are based on geeksforgeeks, freecodecamp, w3schools and datacamp.
+Some topics posted here are based on geeksforgeeks, freecodecamp, w3schools and datacamp.
