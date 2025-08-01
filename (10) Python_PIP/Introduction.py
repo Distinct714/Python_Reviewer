@@ -1,5 +1,3 @@
-
-
 # PIP
 
 # PIP is a package manager for Python packages, or collection of modules if you like.
@@ -10,4 +8,4 @@
 # Packages is just like a directory of Python Scripts where each script is a so-called module.
 # These modules specify functions, methods, and new Python types aimed at solving particular problems
 
-# A code inside a package is known as source code, 
+# A code inside a package is known as source code.
