@@ -1,4 +1,3 @@
-
 # CLASS ATTRIBUTES
 
 # Class attributes belong to the class itself they will be shared by all the instances. 
@@ -80,4 +79,5 @@ print(sampleclass.count)
 # When to use the class or static method?
 # We generally use the class method to create factory methods. 
 # Factory methods return class objects ( similar to a constructor ) for different use cases.
+
 # We generally use static methods to create utility functions.
