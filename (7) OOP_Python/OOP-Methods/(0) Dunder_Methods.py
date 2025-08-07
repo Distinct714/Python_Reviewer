@@ -1,4 +1,3 @@
-
 # DUNDER METHODS
 
 class Fruit:
@@ -94,6 +93,7 @@ print(thing2)
 
 # This get called by built-int repr() method to return a machine readable representation of a type.
 print(repr(thing))
+
 
 
 # Explore more about magic method for OOP Python
