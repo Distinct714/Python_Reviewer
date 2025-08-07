@@ -1,4 +1,3 @@
-
 # CLASS METHOD
 
 # classmethod() function is used to define a method that is bound to the class and not the instance of the class. 
@@ -84,5 +83,6 @@ print(Course.get_instance_count())
 
 # Calling static method
 print(Course.welcome_message())  
+
 
 
