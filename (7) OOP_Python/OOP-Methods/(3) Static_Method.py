@@ -1,4 +1,3 @@
-
 # STATIC METHOD
 
 # Unlike class attributes, instance attributes are not shared by objects. 
@@ -69,5 +68,6 @@ person2 = Person.fromBirthYear("Joshua", 2004)
 
 print(person1.age)
 print(person2.age)
+
 
 print(Person.isAdult(22))
