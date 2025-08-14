@@ -66,4 +66,4 @@ Topics in this Section:
 - Advance Modules
 
 # **SOURCES**
-Some topics posted here are based on geeksforgeeks, freecodecamp, w3schools and datacamp. No copyright infringement is intended. I do not own nor claim to own the rights to any of the sources shared. All credits to the owner of the sources mentioned above.
+Some topics posted here are based on geeksforgeeks, freecodecamp, w3schools, sololearn and datacamp. No copyright infringement is intended. I do not own nor claim to own the rights to any of the sources shared. All credits to the owner of the sources mentioned above.
