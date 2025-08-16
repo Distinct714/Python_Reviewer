@@ -1,4 +1,3 @@
-
 # DOCSTRINGS
 
 # Docstrings is a string or a block of text used to describe what a function does.
@@ -8,11 +7,9 @@
 # It allows to access information about the function inlucding its docstring by calling help().
 print(help(ascii))
 
-
 # Two sets of double underscore referred to as dunder in programming 
 # __doc__ is used to access the docstring only or the dunder-doc attribute to the function
 round.__doc__
-
 
 # Creating a docstring inside the function in single line or multiline format.
 def HelloUser():
@@ -21,14 +18,11 @@ def HelloUser():
     '''
     print("Hello, User")
 
-
 print(help(HelloUser))
-
 
 # Create the convert_data_type function
 def convert_data_structure(data, data_type="list"):
   # Add a multi-line docstring
-  
   """
   Convert a data structure to a list, tuple, or set.
   
@@ -39,7 +33,6 @@ def convert_data_structure(data, data_type="list"):
   Returns:
   	data (list, tuple, or set): Converted data structure.
   """
-
   if data_type == "tuple":
     data = tuple(data)
   elif data_type == "set":
