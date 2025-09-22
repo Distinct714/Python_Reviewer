@@ -1,5 +1,5 @@
 # **CONCEPTS OF PYTHON**
-This repository is for academic purposes to expand knowledge. Explore more about Python as your Programming Language.
+This repository is for academic purposes to expand knowledge. Learn more about Python as your Programming Language.
 
 ## (1) PYTHON BASICS
 Topics in this Section:
@@ -66,4 +66,4 @@ Topics in this Section:
 - Advance Modules
 
 # **SOURCES**
-Some topics posted here are based on geeksforgeeks, freecodecamp, w3schools, sololearn and datacamp which I compiled in this repositories. No copyright infringement is intended. I do not own nor claim to own the rights to any of the sources shared. All credits to the owner of the sources mentioned above.
+Some topics posted here are based on geeksforgeeks, freecodecamp, w3schools, sololearn and datacamp which I compiled and summarized in this repositories. No copyright infringement is intended. I do not own nor claim to own the rights to any of the sources shared. All credits to the owner of the sources mentioned above.
