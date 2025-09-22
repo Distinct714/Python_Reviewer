@@ -1,5 +1,5 @@
 # **CONCEPTS OF PYTHON**
-This repository is for academic purposes to expand knowledge. Learn more about Python as your Programming Language.
+This repository is for academic purposes to expand knowledge. You can use this as your references.
 
 ## (1) PYTHON BASICS
 Topics in this Section:
